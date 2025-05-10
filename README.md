@@ -29,6 +29,10 @@ A highly available, scalable, multi-region application infrastructure deployed o
 
 This Terraform module deploys a robust multi-region application architecture on Google Cloud Platform, designed for high availability, scalability, and disaster recovery. The architecture spans multiple GCP regions with automatic failover capabilities.
 
+
+![tier3_architecture](https://github.com/user-attachments/assets/ada0c9d7-9347-45c1-9b59-4c543aa7c837)
+
+
 ### Core Design Principles
 
 - **High Availability**: Multi-region deployment with automatic failover
